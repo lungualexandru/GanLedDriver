@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WFIGOYMG
 
 [Document2]
-DocumentPath=MPPT.SchDoc
+DocumentPath=Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
