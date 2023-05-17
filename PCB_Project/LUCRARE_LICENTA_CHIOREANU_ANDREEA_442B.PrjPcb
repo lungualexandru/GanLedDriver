@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -132,8 +132,217 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGTOFYDH
 
+[Document6]
+DocumentPath=..\..\..\..\Desktop\LUCRAREA LICENTA\LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Design Rule Check - LUCRARE_LICENTA_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LUCRARE_LICENTA_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\NC Drill\LUCRARE_LICENTA_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LUCRARE_LICENTA_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\NC Drill\LUCRARE_LICENTA_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\Gerber\LUCRARE_LICENTA_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LUCRARE_LICENTA_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\NC Drill\LUCRARE_LICENTA_PCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -145,6 +354,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -386,6 +598,10 @@ OutputName5=Gerber Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\tranch\Documents\GitHub\GanLedDriver\PCB_Project\LUCRARE_LICENTA_PCB.PcbDoc
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
