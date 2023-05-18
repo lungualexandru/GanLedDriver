@@ -133,7 +133,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IGTOFYDH
 
 [Document6]
-DocumentPath=..\..\..\..\Desktop\LUCRAREA LICENTA\LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Output_Files.OutJob
+DocumentPath=OutputFiles.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -198,50 +198,66 @@ DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\L
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM20
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM23
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM24
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GPB
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTL
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTO
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTP
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTS
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\NC Drill\LUCRARE_LICENTA_PCB.LDP
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.REP
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.RUL
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\NC Drill\LUCRARE_LICENTA_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\Gerber\LUCRARE_LICENTA_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for LUCRARE_LICENTA_CHIOREANU_ANDREEA_442B\NC Drill\LUCRARE_LICENTA_PCB.TXT
 DItemRevisionGUID=
 
@@ -556,7 +572,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
